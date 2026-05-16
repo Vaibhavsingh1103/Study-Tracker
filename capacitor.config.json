@@ -1,0 +1,20 @@
+{
+  "appId": "com.studymadeeasy.vaibhavsingh.tracker",
+  "appName": "Study Tracker",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null,
+      "releaseType": "APK"
+    }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#050810",
+      "showSpinner": false
+    }
+  }
+}
